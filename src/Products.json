@@ -1,0 +1,109 @@
+{
+    "items":[
+       {
+          "category":"Pizza",
+          "id":1,
+          "name":"American chees Pizza",
+          "prize":300,
+          "image":"/image/American Pizza.jpg"
+       },
+       {
+          "category":"Pizza",
+          "id":2,
+          "name":"Bacon chees Pizza",
+          "prize":350,
+          "image":"/image/Bacon Pizza.jpg"
+       },
+       {
+          "category":"Pizza",
+          "id":3,
+          "name":"Double Chees Pizza",
+          "prize":400,
+          "image":"/image/Double Cheezs Pizza.jpg"
+       },
+       {
+          "category":"Pizza",
+          "id":4,
+          "name":"italian Pizza",
+          "prize":300,
+          "image":"/image/italin Pizza.jpg"
+       },
+       {
+          "category":"Rice Items",
+          "id":5,
+          "name":"Egg Rice ",
+          "prize":200,
+          "image":"/image/Rice1.jpg"
+       },
+       {
+          "category":"Rice Items",
+          "id":6,
+          "name":"Dam Biriyani ",
+          "prize":600,
+          "image":"/image/Rice4.jpg"
+       },
+       {
+          "category":"Rice Items",
+          "id":7,
+          "name":"Veg Biriyani ",
+          "prize":150,
+          "image":"/image/Rice2.jpg"
+       },
+       {
+          "category":"Rice Items",
+          "id":8,
+          "name":"Chicken Biriyani ",
+          "prize":500,
+          "image":"/image/Rice3.jpg"
+       },
+       {
+          "category":"Cold Drinks",
+          "id":9,
+          "name":"Soda ",
+          "prize":300,
+          "image":"/image/Cold5.jpg"
+       },
+       {
+          "category":"Rice Items",
+          "id":10,
+          "name":"Lemon Rice ",
+          "prize":100,
+          "image":"/image/RIce5.jpg"
+       },
+       {
+          "category":"Cold Drinks",
+          "id":11,
+          "name":"Green Apple ",
+          "prize":300,
+          "image":"/image/Cold1.jpg"
+       },
+       {
+          "category":"Cold Drinks",
+          "id":12,
+          "name":"Cold Drink ",
+          "prize":300,
+          "image":"/image/Cold2.jpg"
+       },
+       {
+          "category":"Cold Drinks",
+          "id":13,
+          "name":"Orange  ",
+          "prize":300,
+          "image":"/image/Cold3.jpg"
+       },
+       {
+          "category":"Cold Drinks",
+          "id":14,
+          "name":"Mango",
+          "prize":250,
+          "image":"/image/Cold4.jpg"
+       },
+       {
+          "category":"Cold Drinks",
+          "id":15,
+          "name":"Lemon ",
+          "prize":150,
+          "image":"/image/Cold5.jpg"
+       }
+    ]
+ }
